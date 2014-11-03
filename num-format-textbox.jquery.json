@@ -1,0 +1,26 @@
+{
+  "name": "num-format-textbox",
+  "title": "NumFormat Textbox",
+  "description": "A plugin for formatting currency, percentages and number inputs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dazpinto/num-format-textbox",
+  "author": {
+    "name": "Darryl Pinto",
+    "email": "dazpinto@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dazpinto/num-format-textbox.git"
+  },
+  "bugs": "https://github.com/dazpinto/num-format-textbox/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dazpinto/num-format-textbox/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.9.1"
+  },
+  "keywords": []
+}
