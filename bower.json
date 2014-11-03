@@ -1,0 +1,26 @@
+{
+  "name": "num-format-textbox",
+  "version": "0.0.0",
+  "authors": [
+    "Darryl Pinto <dazpinto@gmail.com>"
+  ],
+  "description": "A plugin for formatting currency, percentages and numbers",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "number",
+    "textbox",
+    "formatting"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dazpinto/num-format-textbox",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
